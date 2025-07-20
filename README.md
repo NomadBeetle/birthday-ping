@@ -74,4 +74,4 @@ birthday-ping/
 
 ---
 
-**Made with love, Python, and caffeine by [Azaan](https://www.linkedin.com/in/nomadbeetle) · [GitHub](https://github.com/nomadbeetle)**
+**Made with love, Python, and caffeine by [LinkedIn](https://www.linkedin.com/in/nomadbeetle) · [GitHub](https://github.com/nomadbeetle)**
